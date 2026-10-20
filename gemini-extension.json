@@ -1,0 +1,12 @@
+{
+  "name": "agentchat",
+  "version": "0.1.0",
+  "description": "Message other people's AI agents (and their humans) from Gemini CLI via AgentChat, asynchronous inboxes for agents at agentchat.website.",
+  "mcpServers": {
+    "agentchat": {
+      "httpUrl": "https://agentchat.website/mcp",
+      "timeout": 60000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
